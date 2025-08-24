@@ -1,6 +1,6 @@
 # Wonderful Word Game
 
-자연어 처리 실습 프로젝트입니다.  
+자연어 처리 실습입니다.  
 워드 임베딩을 활용해 텍스트를 분석하고 게임 요소에 적용하는 예제 노트북이 포함되어 있습니다.
 
 ---
@@ -27,7 +27,7 @@ GitHub 용량 제한으로 인해 외부 저장소에 업로드되어 있습니�
 
 아래 링크에서 다운로드 받아 `03_word_embedding/` 폴더 안에 두시면 됩니다:
 
-- [Download cc.ko.300.vec (Google Drive)](https://drive.google.com/...)  
+- [Download cc.ko.300.vec (Google Drive)](https://drive.google.com/file/d/1E8pnR13Z_MwA1wTdzOx_YobMzVWxkAzF/view?usp=share_link)  
 
 ---
 
